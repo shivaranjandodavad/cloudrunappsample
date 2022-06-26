@@ -1,0 +1,9 @@
+
+
+ptvsd==4.3.2 # Required for debugging.
+jsonify~=0.5
+requests~=2.27.1
+
+scikit-learn~=1.1.0
+Flask~=2.0.0
+numpy~=1.23.0

@@ -1,0 +1,47 @@
+body{
+     background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0.3)),url('cars.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+.b{
+	font-size: 25px;
+	color: white;
+	margin-top: 8px;
+	margin-bottom: 10px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+        border: 1px
+}
+
+.a{
+	padding: 5px;
+	border: solid;
+	border-radius: 5px;
+	font-size: 15px;
+	width: 23%;
+
+	color:white;
+	background: rgba(0,0,0,0.3);
+}
+
+.heading{
+	color: white;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.6);
+    border: 1px
+}
+
+.c{
+	margin-top: 30px;
+}
+.d{
+	padding: 5px;
+	border: solid orange;
+	border-radius: 5px;
+	font-size: 25px;
+	width: 23%;
+	color:red;
+	background: rgba(0,0,255,0.4);
+
+}
